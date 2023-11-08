@@ -35,7 +35,8 @@ web services integration, performance & SEO optimization, deployment & maintenan
  Integration with popular social media platforms for easier sharing and engagement. Implementation of a recommendation engine using AI/ML algorithms to provide personalized photo
 
 
-![Screenshot (134)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/81a44858-8cb3-43fb-a41e-ebde870bfc50)
+![Screenshot (141)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/8f8c33dd-a4d5-44b6-8dfb-f0a44de09716)
+
 
 ![Screenshot (135)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/43ccb9e4-ba8b-44b2-81a0-d1a1e96e4e81)
 
