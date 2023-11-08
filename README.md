@@ -32,5 +32,18 @@ web services integration, performance & SEO optimization, deployment & maintenan
 6. Deployment & Maintenance The website will be deployed on a reliable and scalable hosting platform such as AWS. The site will be monitored for any performance issues or security threats, and regular updates will be deployed to ensure continuous improvement and functionality.
 
 7. Future Enhancements In the future, the following enhancements may be considered:
+ Integration with popular social media platforms for easier sharing and engagement. Implementation of a recommendation engine using AI/ML algorithms to provide personalized photo
 
-Integration with popular social media platforms for easier sharing and engagement. Implementation of a recommendation engine using AI/ML algorithms to provide personalized photo
+
+![Screenshot (134)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/81a44858-8cb3-43fb-a41e-ebde870bfc50)
+
+![Screenshot (135)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/43ccb9e4-ba8b-44b2-81a0-d1a1e96e4e81)
+
+
+![Screenshot (136)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/c8dd00cb-d746-4abf-8330-1e59ff7885d3)
+
+![Screenshot (137)](https://github.com/Smilepreet75/photographywebsite.github.io/assets![Screenshot (138)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/9e0e2ec6-bb76-4a84-94ff-a0a924dcf85b)
+/146861547/a21623a9-5735-4ddf-96ed-f7fb74f5bc60)
+
+
+
