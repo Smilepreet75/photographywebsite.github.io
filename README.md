@@ -40,8 +40,6 @@ web services integration, performance & SEO optimization, deployment & maintenan
 ![Screenshot (135)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/43ccb9e4-ba8b-44b2-81a0-d1a1e96e4e81)
 
 
-![Screenshot (136)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/c8dd00cb-d746-4abf-8330-1e59ff7885d3)
+![Screenshot (140)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/9bb010e2-9b02-444d-94ef-a43492b7b5ea)
 
-
-
-![Screenshot (137)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/e6317de6-fd28-4528-998d-bec80f9ef60c)
+![Screenshot (139)](https://github.com/Smilepreet75/photographywebsite.github.io/assets/146861547/5219feae-83d4-478f-84e6-9de3119ec076)
